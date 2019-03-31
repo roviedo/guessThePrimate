@@ -1,0 +1,20 @@
+{
+    "name this monkey?": {"img": "monkey1", "choices":[
+        "chimpanzee",
+        "capuchin",
+        "gorilla",
+        "mandrill"
+    ]},
+    "this monkey lives in the Sahara desert": {"img": "monkey12", "choices":[
+        "Japanese macaque",
+        "Common squirrel",
+        "Olive baboon",
+        "Emperor tamarin"
+    ]},
+    "This monkey lives in very low temperatures, name this monkey": {"img": "monkey3", "choices":[
+        "Japanese macaque",
+        "pygmy marmoset",
+        "vervet",
+        "Proboscis"
+    ]}
+}
