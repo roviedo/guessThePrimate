@@ -46,14 +46,15 @@ export default class Main extends React.Component {
         </View>
         <View style={{width: '100%', height: '35%', flex: 1, display: 'flex', flexDirection: 'column', backgroundColor: 'skyblue'}}>
           <View style={{backgroundColor: 'skyblue', alignItems: 'center'}}>
-            <Text>
+            <Text  style={{fontSize: 20}}>
               { question }
             </Text>
           </View>
           <View style={{display: 'flex', alignItems: 'center'}}>
-            { this.props.questions[[question]].choices.map((choice) => {
+            { this.props.questions[[question]].choices.map((choice, index) => {
               return (
                 <Button
+                  key={index}
                   onPress={this.onPressLearnMore}
                   title={choice}
                   color="#841584"

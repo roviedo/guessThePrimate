@@ -1,15 +1,15 @@
 {
-    "this monkey lives in the Sahara desert": {"img": "monkey1", "choices":[
+    "This primate lives in the Sahara desert": {"img": "monkey1", "choices":[
         "chimpanzee",
         "capuchin",
         "baboon",
         "vervet"
     ]},
-    "This monkey lives in very low temperatures": {"img": "monkey2", "choices":[
+    "This primate lives in very low temperatures": {"img": "monkey2", "choices":[
         "Japanese macaque",
         "Common squirrel",
-        "Olive baboon",
-        "Emperor tamarin"
+        "olive baboon",
+        "emperor tamarin"
     ]},
     "They are the world's largest monkey": {"img": "monkey3", "choices":[
         "pygmy marmoset",
@@ -17,13 +17,13 @@
         "Proboscis",
         "Japanese macaque"
     ]},
-    "This Monkey is found in the rainforests of Indonesia and Malaysia": {"img": "monkey4", "choices":[
+    "This primate is found in the rainforests of Indonesia and Malaysia": {"img": "monkey4", "choices":[
         "pygmy marmosett",
-        "Orangutan",
+        "orangutan",
         "Japanese macaquee",
-        "Probosciss"
+        "probosciss"
     ]},
-    "These monkeys live amongst humans in India": {"img": "monkey5", "choices":[
+    "These primates live amongst humans in India": {"img": "monkey5", "choices":[
         "chimpanzee",
         "Rhesus macaque",
         "baboon",
@@ -31,18 +31,18 @@
     ]},
     "This monkey is mainly found in South America": {"img": "monkey6", "choices":[
         "Japanese macaque",
-        "Common squirrel",
-        "Olive baboon",
+        "common squirrel",
+        "olive baboon",
         "Emperor tamarin"
     ]},
-    "wewewewewewewwewThey are the world's largest monkey": {"img": "monkey7", "choices":[
-        "pygmy marmoset",
+    "The fastest and most agile tree dweller": {"img": "monkey7", "choices":[
+        "probosciss",
         "mandrill",
-        "Proboscis",
+        "gibbon",
         "Japanese macaque"
     ]},
     "This primate can only be found in Madagascar": {"img": "monkey8", "choices":[
-        "pygmy marmosett",
+        "pygmy marmoset",
         "baboon",
         "lemur",
         "Probosciss"
@@ -53,7 +53,7 @@
         "Proboscis",
         "Japanese macaque"
     ]},
-    "This ape is the closest human relative": {"img": "monkey10", "choices":[
+    "This primate is the closest human relative": {"img": "monkey10", "choices":[
         "pygmy marmosett",
         "Orangutan",
         "Japanese macaquee",
