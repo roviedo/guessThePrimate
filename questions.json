@@ -1,20 +1,63 @@
 {
-    "name this monkey?": {"img": "monkey1", "choices":[
+    "this monkey lives in the Sahara desert": {"img": "monkey1", "choices":[
         "chimpanzee",
         "capuchin",
-        "gorilla",
-        "mandrill"
+        "baboon",
+        "vervet"
     ]},
-    "this monkey lives in the Sahara desert": {"img": "monkey12", "choices":[
+    "This monkey lives in very low temperatures": {"img": "monkey2", "choices":[
         "Japanese macaque",
         "Common squirrel",
         "Olive baboon",
         "Emperor tamarin"
     ]},
-    "This monkey lives in very low temperatures, name this monkey": {"img": "monkey3", "choices":[
-        "Japanese macaque",
+    "They are the world's largest monkey": {"img": "monkey3", "choices":[
         "pygmy marmoset",
-        "vervet",
-        "Proboscis"
-    ]}
+        "mandrill",
+        "Proboscis",
+        "Japanese macaque"
+    ]},
+    "This Monkey is found in the rainforests of Indonesia and Malaysia": {"img": "monkey4", "choices":[
+        "pygmy marmosett",
+        "Orangutan",
+        "Japanese macaquee",
+        "Probosciss"
+    ]},
+    "These monkeys live amongst humans in India": {"img": "monkey5", "choices":[
+        "chimpanzee",
+        "Rhesus macaque",
+        "baboon",
+        "vervet"
+    ]},
+    "This monkey is mainly found in South America": {"img": "monkey6", "choices":[
+        "Japanese macaque",
+        "Common squirrel",
+        "Olive baboon",
+        "Emperor tamarin"
+    ]},
+    "wewewewewewewwewThey are the world's largest monkey": {"img": "monkey7", "choices":[
+        "pygmy marmoset",
+        "mandrill",
+        "Proboscis",
+        "Japanese macaque"
+    ]},
+    "This primate can only be found in Madagascar": {"img": "monkey8", "choices":[
+        "pygmy marmosett",
+        "baboon",
+        "lemur",
+        "Probosciss"
+    ]},
+    "Known as the long nose monkey, from Indonesia": {"img": "monkey9", "choices":[
+        "pygmy marmoset",
+        "mandrill",
+        "Proboscis",
+        "Japanese macaque"
+    ]},
+    "This ape is the closest human relative": {"img": "monkey10", "choices":[
+        "pygmy marmosett",
+        "Orangutan",
+        "Japanese macaquee",
+        "chimpanzee"
+    ]},
+
 }

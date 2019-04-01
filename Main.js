@@ -19,19 +19,33 @@ export default class Main extends React.Component {
     }
   }
 
+  getImage = (name) => {
+    switch (name) {
+      case 'monkey1': return require('./monkey1.jpg');
+      case 'monkey2': return require('./monkey2.jpg');
+      case 'monkey3': return require('./monkey3.jpg');
+      case 'monkey4': return require('./monkey4.jpg');
+      case 'monkey5': return require('./monkey5.jpg');
+      case 'monkey6': return require('./monkey6.jpg');
+      case 'monkey7': return require('./monkey7.jpg');
+      case 'monkey8': return require('./monkey8.jpg');
+      case 'monkey9': return require('./monkey9.jpg');
+      case 'monkey10': return require('./monkey10.jpg');
+    }
+  }
+
   render() {
     const question = Object.keys(this.props.questions)[this.state.index];
-    // const img = `./${question.img}.jpg`;
     return (
       <View style={{height: '100%'}}>
-        <View style={{width: '100%', height: '50%', backgroundColor: 'powderblue'}}>
+        <View style={{width: '100%', height: '65%', backgroundColor: 'powderblue'}}>
           <Image
-            source={require('./monkey1.jpg')}
+            source={this.getImage(this.props.questions[[question]].img)}
             style={{width: '100%', height: '100%'}}
           />
         </View>
-        <View style={{width: '100%', height: '50%', flex: 1, display: 'flex', flexDirection: 'column', backgroundColor: 'skyblue', justifyContent: 'center'}}>
-          <View style={{backgroundColor: 'skyblue'}}>
+        <View style={{width: '100%', height: '35%', flex: 1, display: 'flex', flexDirection: 'column', backgroundColor: 'skyblue'}}>
+          <View style={{backgroundColor: 'skyblue', alignItems: 'center'}}>
             <Text>
               { question }
             </Text>
