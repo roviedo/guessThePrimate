@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import Main from './Main';
+import Questions from './Questions';
 import * as questions from './questions.json'; // Get this from DB
 
 export default class App extends React.Component {
@@ -8,7 +8,7 @@ export default class App extends React.Component {
     const updatedQuestions = questions;
     delete updatedQuestions.default;
     return (
-      <Main questions={ updatedQuestions }/>
+      <Questions questions={ updatedQuestions }/>
     );
   }
 }

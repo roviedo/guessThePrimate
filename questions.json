@@ -1,59 +1,59 @@
 {
-    "This primate lives in the Sahara desert": {"img": "monkey1", "choices":[
+    "This primate lives in the Sahara desert": {"img": "primate1", "choices":[
         "chimpanzee",
         "capuchin",
         "baboon",
         "vervet"
     ]},
-    "This primate lives in very low temperatures": {"img": "monkey2", "choices":[
+    "This primate lives in very low temperatures": {"img": "primate2", "choices":[
         "Japanese macaque",
         "Common squirrel",
         "olive baboon",
         "emperor tamarin"
     ]},
-    "They are the world's largest monkey": {"img": "monkey3", "choices":[
+    "They are the world's largest monkey": {"img": "primate3", "choices":[
         "pygmy marmoset",
         "mandrill",
         "Proboscis",
         "Japanese macaque"
     ]},
-    "This primate is found in the rainforests of Indonesia and Malaysia": {"img": "monkey4", "choices":[
+    "This primate is found in the rainforests of Indonesia and Malaysia": {"img": "primate4", "choices":[
         "pygmy marmosett",
         "orangutan",
         "Japanese macaquee",
-        "probosciss"
+        "Proboscis"
     ]},
-    "These primates live amongst humans in India": {"img": "monkey5", "choices":[
+    "These primates live amongst humans in India": {"img": "primate5", "choices":[
         "chimpanzee",
         "Rhesus macaque",
         "baboon",
         "vervet"
     ]},
-    "This monkey is mainly found in South America": {"img": "monkey6", "choices":[
+    "This monkey is mainly found in South America": {"img": "primate6", "choices":[
         "Japanese macaque",
         "common squirrel",
         "olive baboon",
         "Emperor tamarin"
     ]},
-    "The fastest and most agile tree dweller": {"img": "monkey7", "choices":[
-        "probosciss",
+    "The fastest and most agile tree dweller": {"img": "primate7", "choices":[
+        "Proboscis",
         "mandrill",
         "gibbon",
         "Japanese macaque"
     ]},
-    "This primate can only be found in Madagascar": {"img": "monkey8", "choices":[
+    "This primate can only be found in Madagascar": {"img": "primate8", "choices":[
         "pygmy marmoset",
         "baboon",
         "lemur",
-        "Probosciss"
+        "Proboscis"
     ]},
-    "Known as the long nose monkey, from Indonesia": {"img": "monkey9", "choices":[
+    "Known as the long nose monkey, from Indonesia": {"img": "primate9", "choices":[
         "pygmy marmoset",
         "mandrill",
         "Proboscis",
         "Japanese macaque"
     ]},
-    "This primate is the closest human relative": {"img": "monkey10", "choices":[
+    "This primate is the closest human relative": {"img": "primate10", "choices":[
         "pygmy marmosett",
         "Orangutan",
         "Japanese macaquee",
